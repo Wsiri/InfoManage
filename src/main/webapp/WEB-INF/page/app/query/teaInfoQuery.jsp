@@ -203,11 +203,11 @@
                 ,icon: 'layui-icon-tips'
             }]
             , cols: [[
-                {field: 'teaNum', title: '工号', sort: true, fixed: true}
+                {field: 'teaNum', title: '身份证号', sort: true, fixed: true}
                 , {field: 'teaName', title: '姓名'}
                 , {field: 'teaSex', title: '性别', sort: true}
                 , {field: 'teaAge', title: '年龄', sort: true}
-                , {field: 'teaTitleName', title: '职称', sort: true}
+                , {field: 'teaTitleName', title: '部门', sort: true}
                 , {field: 'teaMajorName', title: '专业', sort: true}
                 , {field: 'teaCollegeName', title: '学院', sort: true}
                 , {field: 'teaRemark', title: '评价', width: 250}
